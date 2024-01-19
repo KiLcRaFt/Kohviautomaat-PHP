@@ -1,4 +1,5 @@
 <?php
+//fail mis lisab andmebaasi uus kasutaja
 require_once("conf.php");
 //$yhendus = mysqli_connect('localhost', 'martinnommiste', '123456', 'martinnommiste');
 $yhendus = mysqli_connect($servernimi, $kasutaja, $parool, $andmebaas);
