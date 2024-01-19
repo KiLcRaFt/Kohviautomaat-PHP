@@ -1,4 +1,5 @@
 <?php
+//fail mis kontrollib, kas oleb kasutaja andmebaasis
 require_once("conf.php");
 global $yhendus;
 
