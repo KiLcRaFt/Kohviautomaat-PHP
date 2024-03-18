@@ -1,8 +1,8 @@
 ## Sisukord
 1. [Kohviautomaat](https://github.com/KiLcRaFt/Kohviautomaat-PHP/tree/main/README.md#kohviautomaat)
-  2. [Kirjeldus](https://github.com/KiLcRaFt/Kohviautomaat-PHP?tab=readme-ov-file#Kirjeldus)
+  2. [Kirjeldus](https://github.com/KiLcRaFt/Kohviautomaat-PHP?tab=readme-ov-file#colorgraykirjeldus)
   3. [Valmistatud koos](https://github.com/KiLcRaFt/Kohviautomaat-PHP?tab=readme-ov-file#valmistatud-koos)
-  4. [Veebisait](https://github.com/KiLcRaFt/Kohviautomaat-PHP?tab=readme-ov-file#Veebisait)
+  4. [Veebisait](https://github.com/KiLcRaFt/Kohviautomaat-PHP?tab=readme-ov-file#colorgrayveebisait)
   5. [Koodinäidised](https://github.com/KiLcRaFt/Kohviautomaat-PHP?tab=readme-ov-file#koodi-n%C3%A4ididsed)
 
 # Kohviautomaat
