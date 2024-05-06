@@ -81,7 +81,7 @@ if(!isAdmin()) {
     <?php
 }
 ?>
-<h1>Kohviautomaat</h1>
+<h1 style="border: 3px solid black; border-radius: 15px">Kohviautomaat</h1>
 <header>
     <?php
     if(isset($_SESSION['kasutaja'])){
