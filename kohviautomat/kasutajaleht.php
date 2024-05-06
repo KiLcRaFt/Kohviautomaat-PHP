@@ -116,7 +116,7 @@ if(!isAdmin()) {
 </nav>
 <?php
 if(!isset($_SESSION["kasutaja"])) {
-    echo "<h1 id='eikasutaja'><p>Alustamiseks peate oma kontole sisse logima või registreeruma.</p></h1>";
+    echo "<h1 id='eikasutaja'><p>Muudetud põhilehe kirjeldus</p></h1>";
 }
 ?>
 <?php
