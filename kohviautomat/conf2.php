@@ -1,4 +1,4 @@
 <?php
-$yhendus=new mysqli('localhost', 'martinnommiste', '123456', 'martinnommiste');
+$yhendus=new mysqli('localhost', 'oleksandr', '123', 'bohatyrov');
 $yhendus->set_charset("UTF8");
 ?>

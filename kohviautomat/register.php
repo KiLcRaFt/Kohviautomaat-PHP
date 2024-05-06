@@ -1,5 +1,5 @@
 <?php
-require_once("conf.php");
+require_once("conf2.php");
 //$yhendus = mysqli_connect('localhost', 'martinnommiste', '123456', 'martinnommiste');
 $yhendus = mysqli_connect($servernimi, $kasutaja, $parool, $andmebaas);
 
