@@ -115,3 +115,14 @@ ex. Martin Nõmmiste
 ## License
 
 This project is licensed under the [Martin Nõmmiste] License - see the LICENSE.md file for details
+
+## Harjutused
+
+1. Vaheta background color
+2. Muuta tervitussõnumi asukoht "logi välja" kõrval (sõnum nt "Tere admin")
+3. Ümardatud nurgad ülemises menüüs
+4. Muuta php failis esilehe kirjelduses
+5. Lisa veel üks jook php failis
+6. Nime "Kohviautomaat" jaoks tehke ümaraid border.
+
+Kuidas logi sisse admini (login: admin | parool:admin)
