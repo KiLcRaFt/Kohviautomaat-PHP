@@ -44,7 +44,7 @@ if(isset($_REQUEST["pluss"])){
     ?>
 </header>
 <nav>
-    <ul class="navigation">
+    <ul class="navigation" style="border-radius: 150px;">
         <li class="navi"><h2><a href=""> Administreerimis Leht </a></h2></li>
         <li class="navi"><h2><a href="kasutajaleht.php"> Kasutaja Leht </a></h2></li>
     </ul>
