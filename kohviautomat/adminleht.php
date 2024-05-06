@@ -70,6 +70,8 @@ if(isset($_REQUEST["pluss"])){
         echo "<td><a href='?pluss=$id'>Lisa 1 topsepakk</a></td>";
         echo "</tr>";
     }
+
+    // added 1  to db
     ?>
 
 </table>
