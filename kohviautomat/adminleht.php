@@ -29,7 +29,7 @@ if(isset($_REQUEST["pluss"])){
     <?php
     if(isset($_SESSION['kasutaja'])){
         ?>
-        <h1>Tere, <?="$_SESSION[kasutaja]"?></h1>
+        <h1 style="text-align: start">Tere, <?="$_SESSION[kasutaja]"?></h1>
         <div>
             <a href="logout.php">Logi välja</a>
         </div>
