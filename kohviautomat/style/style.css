@@ -6,7 +6,9 @@
     background-color: #333;
     margin-bottom: 20px;
 }
-
+body {
+    background-color: #53eb84;
+}
 .navi {
     float: left;
     margin: auto;
